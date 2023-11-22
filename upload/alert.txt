@@ -1,0 +1,84 @@
+[**] [1:10041:1] SQL Injection Attempt Using UNION Keyword [**]
+[Priority: 0] 
+11/18-00:09:19.223428 00:50:56:C0:00:08 -> 00:0C:29:41:F9:6A type:0x800 len:0x2E5
+192.168.100.1:54658 -> 192.168.100.13:80 TCP TTL:128 TOS:0x0 ID:64326 IpLen:20 DgmLen:727 DF
+***AP*** Seq: 0xED8F6BA9  Ack: 0x65364E8E  Win: 0x201  TcpLen: 20
+
+[**] [1:10031:1] SQL Injection Attempt Using OR Keyword [**]
+[Priority: 0] 
+11/18-00:11:20.769206 00:50:56:C0:00:08 -> 00:0C:29:41:F9:6A type:0x800 len:0x76
+192.168.100.1:54509 -> 192.168.100.13:22 TCP TTL:128 TOS:0x0 ID:2114 IpLen:20 DgmLen:104 DF
+***AP*** Seq: 0x361EF27B  Ack: 0x46294547  Win: 0x1001  TcpLen: 20
+
+[**] [1:10041:1] SQL Injection Attempt Using UNION Keyword [**]
+[Priority: 0] 
+11/18-00:11:26.621367 00:50:56:C0:00:08 -> 00:0C:29:41:F9:6A type:0x800 len:0x328
+192.168.100.1:54675 -> 192.168.100.13:80 TCP TTL:128 TOS:0x0 ID:2147 IpLen:20 DgmLen:794 DF
+***AP*** Seq: 0x661C350C  Ack: 0x170487DD  Win: 0x201  TcpLen: 20
+
+[**] [1:10046:1] SQL Injection Attempt Using SELECT Keyword [**]
+[Priority: 0] 
+11/18-00:11:31.487661 00:50:56:C0:00:08 -> 00:0C:29:41:F9:6A type:0x800 len:0x329
+192.168.100.1:54678 -> 192.168.100.13:80 TCP TTL:128 TOS:0x0 ID:2173 IpLen:20 DgmLen:795 DF
+***AP*** Seq: 0x9F6C4880  Ack: 0xE32A959  Win: 0x1004  TcpLen: 20
+
+[**] [1:10041:1] SQL Injection Attempt Using UNION Keyword [**]
+[Priority: 0] 
+11/18-00:11:31.487661 00:50:56:C0:00:08 -> 00:0C:29:41:F9:6A type:0x800 len:0x329
+192.168.100.1:54678 -> 192.168.100.13:80 TCP TTL:128 TOS:0x0 ID:2173 IpLen:20 DgmLen:795 DF
+***AP*** Seq: 0x9F6C4880  Ack: 0xE32A959  Win: 0x1004  TcpLen: 20
+
+[**] [1:10046:1] SQL Injection Attempt Using SELECT Keyword [**]
+[Priority: 0] 
+11/18-00:11:38.474236 00:50:56:C0:00:08 -> 00:0C:29:41:F9:6A type:0x800 len:0x32A
+192.168.100.1:54679 -> 192.168.100.13:80 TCP TTL:128 TOS:0x0 ID:2212 IpLen:20 DgmLen:796 DF
+***AP*** Seq: 0xB19701F2  Ack: 0xFBED4370  Win: 0x1004  TcpLen: 20
+
+[**] [1:10046:1] SQL Injection Attempt Using SELECT Keyword [**]
+[Priority: 0] 
+11/18-00:11:38.500150 00:50:56:C0:00:08 -> 00:0C:29:41:F9:6A type:0x800 len:0x2A1
+192.168.100.1:54679 -> 192.168.100.13:80 TCP TTL:128 TOS:0x0 ID:2216 IpLen:20 DgmLen:659 DF
+***AP*** Seq: 0xB19704E6  Ack: 0xFBED4A39  Win: 0x1004  TcpLen: 20
+
+[**] [1:10046:1] SQL Injection Attempt Using SELECT Keyword [**]
+[Priority: 0] 
+11/18-00:11:38.500692 00:50:56:C0:00:08 -> 00:0C:29:41:F9:6A type:0x800 len:0x294
+192.168.100.1:54684 -> 192.168.100.13:80 TCP TTL:128 TOS:0x0 ID:2218 IpLen:20 DgmLen:646 DF
+***AP*** Seq: 0x7B09D7D0  Ack: 0x29442127  Win: 0x1004  TcpLen: 20
+
+[**] [1:10046:1] SQL Injection Attempt Using SELECT Keyword [**]
+[Priority: 0] 
+11/18-00:11:38.501660 00:50:56:C0:00:08 -> 00:0C:29:41:F9:6A type:0x800 len:0x2CE
+192.168.100.1:54685 -> 192.168.100.13:80 TCP TTL:128 TOS:0x0 ID:2221 IpLen:20 DgmLen:704 DF
+***AP*** Seq: 0x9C510E7E  Ack: 0x1D9A304B  Win: 0x1004  TcpLen: 20
+
+[**] [1:10046:1] SQL Injection Attempt Using SELECT Keyword [**]
+[Priority: 0] 
+11/18-00:11:38.502467 00:50:56:C0:00:08 -> 00:0C:29:41:F9:6A type:0x800 len:0x29F
+192.168.100.1:54679 -> 192.168.100.13:80 TCP TTL:128 TOS:0x0 ID:2223 IpLen:20 DgmLen:657 DF
+***AP*** Seq: 0xB1970751  Ack: 0xFBED4FDE  Win: 0xFFE  TcpLen: 20
+
+[**] [1:10046:1] SQL Injection Attempt Using SELECT Keyword [**]
+[Priority: 0] 
+11/18-00:11:49.220270 00:50:56:C0:00:08 -> 00:0C:29:41:F9:6A type:0x800 len:0x330
+192.168.100.1:54688 -> 192.168.100.13:80 TCP TTL:128 TOS:0x0 ID:2307 IpLen:20 DgmLen:802 DF
+***AP*** Seq: 0x9EEB5A4B  Ack: 0xA0BBE415  Win: 0x1004  TcpLen: 20
+
+[**] [1:10041:1] SQL Injection Attempt Using UNION Keyword [**]
+[Priority: 0] 
+11/18-00:11:49.220270 00:50:56:C0:00:08 -> 00:0C:29:41:F9:6A type:0x800 len:0x330
+192.168.100.1:54688 -> 192.168.100.13:80 TCP TTL:128 TOS:0x0 ID:2307 IpLen:20 DgmLen:802 DF
+***AP*** Seq: 0x9EEB5A4B  Ack: 0xA0BBE415  Win: 0x1004  TcpLen: 20
+
+[**] [1:10046:1] SQL Injection Attempt Using SELECT Keyword [**]
+[Priority: 0] 
+11/18-00:12:03.785774 00:50:56:C0:00:08 -> 00:0C:29:41:F9:6A type:0x800 len:0x336
+192.168.100.1:54691 -> 192.168.100.13:80 TCP TTL:128 TOS:0x0 ID:2364 IpLen:20 DgmLen:808 DF
+***AP*** Seq: 0x5F5E8D45  Ack: 0x2500B3E8  Win: 0x1004  TcpLen: 20
+
+[**] [1:10041:1] SQL Injection Attempt Using UNION Keyword [**]
+[Priority: 0] 
+11/18-00:12:03.785774 00:50:56:C0:00:08 -> 00:0C:29:41:F9:6A type:0x800 len:0x336
+192.168.100.1:54691 -> 192.168.100.13:80 TCP TTL:128 TOS:0x0 ID:2364 IpLen:20 DgmLen:808 DF
+***AP*** Seq: 0x5F5E8D45  Ack: 0x2500B3E8  Win: 0x1004  TcpLen: 20
+
